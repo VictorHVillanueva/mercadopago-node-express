@@ -23,14 +23,16 @@
                         <hr>
                         <h4>Descripcion</h4>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit omnis nisi voluptatem aperiam
+                            !Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit omnis nisi voluptatem aperiam
                             illo quo impedit dolorum. Necessitatibus ducimus neque cumque fugiat, facere commodi! Fugit
                             aliquid magni ipsam voluptate cum.
                         </p>
                         <hr>
                         <h4>Precio $2500</h4>
                         <div>
-                            <form action="">
+                            <form action="http://localhost:3000/checkout" method="POST" >                                          
+                                <input type="hidden" name="title" value="Remera de Mujer manga corta">
+                                <input type="hidden" name="price" value="2500">                                
                                 <input type="submit" value="Comprar ahora" class="btn btn-primary btn-block">
                             </form>
                         </div>

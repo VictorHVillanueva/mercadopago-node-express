@@ -1,0 +1,18 @@
+//vendedor
+{
+    "id": 772046034,
+    "nickname": "TESTMNSPCIOJ",
+    "password": "qatest8057",
+    "site_status": "active",
+    "email": "test_user_39680726@testuser.com",
+    "public_key":"APP_USR-8a60285a-5dd4-41eb-ae93-71674f728395",
+    "access_token":"APP_USR-2011480228021203-060802-07d8baef3cda1e78db3bbc5a2e4f4680-772046034",
+}
+//comprador
+{
+    "id": 772049887,
+    "nickname": "TESTDFLGGYJD",
+    "password": "qatest3527",
+    "site_status": "active",
+    "email": "test_user_55221060@testuser.com"
+}
